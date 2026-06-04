@@ -2,7 +2,7 @@ import turtle
 import math
 
 """
-Name: Brenna Jones
+Name: Bria Ramey
 Project 3: Turtle Graphics Scene Refactoring
 
 Description:
